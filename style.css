@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    font-size: 40px;
+}
+h4{
+    font-weight: 900;
+}
+.container{
+    height: auto;
+    width: 400px;
+    border: none;
+    margin: 20px auto;
+    text-align: center;
+    padding: 20px;
+    
+}
+input{
+    width: 100%;
+    padding: 20px;
+    border-radius: 16px;
+    margin: 5px;
+    border: 1px solid gray;
+}
+button{
+    padding: 20px;
+    width: 60%;
+    margin: 10px auto;
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+}
+p{
+    color: black;
+}
+a{
+    color: gray;
+}
